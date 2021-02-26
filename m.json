@@ -1,9 +1,7 @@
 {
-  "name": "Dicfam01 ADA pool",
+  "name": "Dicfam01_ADA_pool",
   "ticker": "DICF1",
   "description": "DICFAM01 Cardano stake pool",
   "homepage": "https://dicfam01adapool.com",
-  "nonce": "1614256742",
-  "extended": "https://dicfam01adapool.com/ext_metadata.json"
 }
 
